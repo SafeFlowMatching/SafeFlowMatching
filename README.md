@@ -2,6 +2,8 @@
 
 ### Project page: https://safeflowmatching.github.io
 
+### Code Repository: https://github.com/SafeFlowMatching/SafeFlow
+
 <!--
 **SafeFlowMatching/SafeFlowMatching** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
