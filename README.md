@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-### Project page: https://safeflowmatching.github.io
+Here are some useful resources for the project:
 
-### Code Repository: https://github.com/SafeFlowMatching/SafeFM
+* 🔗 **[Project Page](https://safeflowmatching.github.io)** – Overview, contributions, and results
+* 💻 **[Code Repository](https://github.com/SafeFlowMatching/SafeFM)** – Source code and implementation details
+* 📊 **[Training Dataset](https://huggingface.co/datasets/SafeFlowMatching/SafeFlowMatching_Dataset)** – Data used for model training
+
+Let us know if you have any questions or feedback!
 
 <!--
 **SafeFlowMatching/SafeFlowMatching** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
